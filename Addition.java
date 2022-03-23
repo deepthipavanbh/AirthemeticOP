@@ -12,12 +12,16 @@ class Addition
   
   public static void main(String args[])
   {
-    void int(int a,int b)
+    int add(int a,int b)
     {
       return a+b;
     }
     
+    
+    
   }
+  
+  
     
     
 }
